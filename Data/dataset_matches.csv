@@ -1,0 +1,129 @@
+match_id,home_team_name,home_score,away_team_name,away_score,match_date,stage,world_cup,match,final_score
+1,Russia,5,Saudi Arabia,0,2018-06-14,Group Stage,Russia,Russia X Saudi Arabia,5 - 0
+2,Egypt,0,Uruguay,1,2018-06-15,Group Stage,Russia,Egypt X Uruguay,0 - 1
+3,Morocco,0,Iran,1,2018-06-15,Group Stage,Russia,Morocco X Iran,0 - 1
+4,Portugal,3,Spain,3,2018-06-15,Group Stage,Russia,Portugal X Spain,3 - 3
+5,Croatia,2,Nigeria,0,2018-06-16,Group Stage,Russia,Croatia X Nigeria,2 - 0
+6,France,2,Australia,1,2018-06-16,Group Stage,Russia,France X Australia,2 - 1
+7,Argentina,1,Iceland,1,2018-06-16,Group Stage,Russia,Argentina X Iceland,1 - 1
+8,Peru,0,Denmark,1,2018-06-16,Group Stage,Russia,Peru X Denmark,0 - 1
+9,Costa Rica,0,Serbia,1,2018-06-17,Group Stage,Russia,Costa Rica X Serbia,0 - 1
+10,Brazil,1,Switzerland,1,2018-06-17,Group Stage,Russia,Brazil X Switzerland,1 - 1
+11,Germany,0,Mexico,1,2018-06-17,Group Stage,Russia,Germany X Mexico,0 - 1
+12,Sweden,1,South Korea,0,2018-06-18,Group Stage,Russia,Sweden X South Korea,1 - 0
+13,Tunisia,1,England,2,2018-06-18,Group Stage,Russia,Tunisia X England,1 - 2
+14,Belgium,3,Panama,0,2018-06-18,Group Stage,Russia,Belgium X Panama,3 - 0
+15,Poland,1,Senegal,2,2018-06-19,Group Stage,Russia,Poland X Senegal,1 - 2
+16,Russia,3,Egypt,1,2018-06-19,Group Stage,Russia,Russia X Egypt,3 - 1
+17,Colombia,1,Japan,2,2018-06-19,Group Stage,Russia,Colombia X Japan,1 - 2
+18,Portugal,1,Morocco,0,2018-06-20,Group Stage,Russia,Portugal X Morocco,1 - 0
+19,Uruguay,1,Saudi Arabia,0,2018-06-20,Group Stage,Russia,Uruguay X Saudi Arabia,1 - 0
+20,Iran,0,Spain,1,2018-06-20,Group Stage,Russia,Iran X Spain,0 - 1
+21,Argentina,0,Croatia,3,2018-06-21,Group Stage,Russia,Argentina X Croatia,0 - 3
+22,France,1,Peru,0,2018-06-21,Group Stage,Russia,France X Peru,1 - 0
+23,Denmark,1,Australia,1,2018-06-21,Group Stage,Russia,Denmark X Australia,1 - 1
+24,Brazil,2,Costa Rica,0,2018-06-22,Group Stage,Russia,Brazil X Costa Rica,2 - 0
+25,Nigeria,2,Iceland,0,2018-06-22,Group Stage,Russia,Nigeria X Iceland,2 - 0
+26,Serbia,1,Switzerland,2,2018-06-22,Group Stage,Russia,Serbia X Switzerland,1 - 2
+27,Belgium,5,Tunisia,2,2018-06-23,Group Stage,Russia,Belgium X Tunisia,5 - 2
+28,Germany,2,Sweden,1,2018-06-23,Group Stage,Russia,Germany X Sweden,2 - 1
+29,South Korea,1,Mexico,2,2018-06-23,Group Stage,Russia,South Korea X Mexico,1 - 2
+30,Japan,2,Senegal,2,2018-06-24,Group Stage,Russia,Japan X Senegal,2 - 2
+31,Poland,0,Colombia,3,2018-06-24,Group Stage,Russia,Poland X Colombia,0 - 3
+32,England,6,Panama,1,2018-06-24,Group Stage,Russia,England X Panama,6 - 1
+33,Spain,2,Morocco,2,2018-06-25,Group Stage,Russia,Spain X Morocco,2 - 2
+34,Iran,1,Portugal,1,2018-06-25,Group Stage,Russia,Iran X Portugal,1 - 1
+35,Saudi Arabia,2,Egypt,1,2018-06-25,Group Stage,Russia,Saudi Arabia X Egypt,2 - 1
+36,Uruguay,3,Russia,0,2018-06-25,Group Stage,Russia,Uruguay X Russia,3 - 0
+37,Iceland,1,Croatia,2,2018-06-26,Group Stage,Russia,Iceland X Croatia,1 - 2
+38,Denmark,0,France,0,2018-06-26,Group Stage,Russia,Denmark X France,0 - 0
+39,Nigeria,1,Argentina,2,2018-06-26,Group Stage,Russia,Nigeria X Argentina,1 - 2
+40,Australia,0,Peru,2,2018-06-26,Group Stage,Russia,Australia X Peru,0 - 2
+41,Serbia,0,Brazil,2,2018-06-27,Group Stage,Russia,Serbia X Brazil,0 - 2
+42,South Korea,2,Germany,0,2018-06-27,Group Stage,Russia,South Korea X Germany,2 - 0
+43,Switzerland,2,Costa Rica,2,2018-06-27,Group Stage,Russia,Switzerland X Costa Rica,2 - 2
+44,Mexico,0,Sweden,3,2018-06-27,Group Stage,Russia,Mexico X Sweden,0 - 3
+45,Japan,0,Poland,1,2018-06-28,Group Stage,Russia,Japan X Poland,0 - 1
+46,Panama,1,Tunisia,2,2018-06-28,Group Stage,Russia,Panama X Tunisia,1 - 2
+47,Senegal,0,Colombia,1,2018-06-28,Group Stage,Russia,Senegal X Colombia,0 - 1
+48,England,0,Belgium,1,2018-06-28,Group Stage,Russia,England X Belgium,0 - 1
+49,France,4,Argentina,3,2018-06-30,Round of 16,Russia,France X Argentina,4 - 3
+50,Uruguay,2,Portugal,1,2018-06-30,Round of 16,Russia,Uruguay X Portugal,2 - 1
+51,Spain,1,Russia,1,2018-07-01,Round of 16,Russia,Spain X Russia,1 - 1
+52,Croatia,1,Denmark,1,2018-07-01,Round of 16,Russia,Croatia X Denmark,1 - 1
+53,Belgium,3,Japan,2,2018-07-02,Round of 16,Russia,Belgium X Japan,3 - 2
+54,Brazil,2,Mexico,0,2018-07-02,Round of 16,Russia,Brazil X Mexico,2 - 0
+55,Colombia,1,England,1,2018-07-03,Round of 16,Russia,Colombia X England,1 - 1
+56,Sweden,1,Switzerland,0,2018-07-03,Round of 16,Russia,Sweden X Switzerland,1 - 0
+57,Brazil,1,Belgium,2,2018-07-06,Quarter-finals,Russia,Brazil X Belgium,1 - 2
+58,Uruguay,0,France,2,2018-07-06,Quarter-finals,Russia,Uruguay X France,0 - 2
+59,Sweden,0,England,2,2018-07-07,Quarter-finals,Russia,Sweden X England,0 - 2
+60,Russia,2,Croatia,2,2018-07-07,Quarter-finals,Russia,Russia X Croatia,2 - 2
+61,France,1,Belgium,0,2018-07-10,Semi-finals,Russia,France X Belgium,1 - 0
+62,Croatia,2,England,1,2018-07-11,Semi-finals,Russia,Croatia X England,2 - 1
+63,Belgium,2,England,0,2018-07-14,3rd Place Final,Russia,Belgium X England,2 - 0
+64,France,4,Croatia,2,2018-07-15,Final,Russia,France X Croatia,4 - 2
+65,Qatar,0,Ecuador,2,2022-11-20,Group Stage,Qatar,Qatar X Ecuador,0 - 2
+66,United States,1,Wales,1,2022-11-21,Group Stage,Qatar,United States X Wales,1 - 1
+67,England,6,Iran,2,2022-11-21,Group Stage,Qatar,England X Iran,6 - 2
+68,Senegal,0,Netherlands,2,2022-11-21,Group Stage,Qatar,Senegal X Netherlands,0 - 2
+69,Mexico,0,Poland,0,2022-11-22,Group Stage,Qatar,Mexico X Poland,0 - 0
+70,France,4,Australia,1,2022-11-22,Group Stage,Qatar,France X Australia,4 - 1
+71,Argentina,1,Saudi Arabia,2,2022-11-22,Group Stage,Qatar,Argentina X Saudi Arabia,1 - 2
+72,Denmark,0,Tunisia,0,2022-11-22,Group Stage,Qatar,Denmark X Tunisia,0 - 0
+73,Belgium,1,Canada,0,2022-11-23,Group Stage,Qatar,Belgium X Canada,1 - 0
+74,Morocco,0,Croatia,0,2022-11-23,Group Stage,Qatar,Morocco X Croatia,0 - 0
+75,Spain,7,Costa Rica,0,2022-11-23,Group Stage,Qatar,Spain X Costa Rica,7 - 0
+76,Germany,1,Japan,2,2022-11-23,Group Stage,Qatar,Germany X Japan,1 - 2
+77,Brazil,2,Serbia,0,2022-11-24,Group Stage,Qatar,Brazil X Serbia,2 - 0
+78,Switzerland,1,Cameroon,0,2022-11-24,Group Stage,Qatar,Switzerland X Cameroon,1 - 0
+79,Portugal,3,Ghana,2,2022-11-24,Group Stage,Qatar,Portugal X Ghana,3 - 2
+80,Uruguay,0,South Korea,0,2022-11-24,Group Stage,Qatar,Uruguay X South Korea,0 - 0
+81,Qatar,1,Senegal,3,2022-11-25,Group Stage,Qatar,Qatar X Senegal,1 - 3
+82,England,0,United States,0,2022-11-25,Group Stage,Qatar,England X United States,0 - 0
+83,Wales,0,Iran,2,2022-11-25,Group Stage,Qatar,Wales X Iran,0 - 2
+84,Netherlands,1,Ecuador,1,2022-11-25,Group Stage,Qatar,Netherlands X Ecuador,1 - 1
+85,Tunisia,0,Australia,1,2022-11-26,Group Stage,Qatar,Tunisia X Australia,0 - 1
+86,Poland,2,Saudi Arabia,0,2022-11-26,Group Stage,Qatar,Poland X Saudi Arabia,2 - 0
+87,France,2,Denmark,1,2022-11-26,Group Stage,Qatar,France X Denmark,2 - 1
+88,Argentina,2,Mexico,0,2022-11-26,Group Stage,Qatar,Argentina X Mexico,2 - 0
+89,Spain,1,Germany,1,2022-11-27,Group Stage,Qatar,Spain X Germany,1 - 1
+90,Japan,0,Costa Rica,1,2022-11-27,Group Stage,Qatar,Japan X Costa Rica,0 - 1
+91,Belgium,0,Morocco,2,2022-11-27,Group Stage,Qatar,Belgium X Morocco,0 - 2
+92,Croatia,4,Canada,1,2022-11-27,Group Stage,Qatar,Croatia X Canada,4 - 1
+93,Portugal,2,Uruguay,0,2022-11-28,Group Stage,Qatar,Portugal X Uruguay,2 - 0
+94,Cameroon,3,Serbia,3,2022-11-28,Group Stage,Qatar,Cameroon X Serbia,3 - 3
+95,Brazil,1,Switzerland,0,2022-11-28,Group Stage,Qatar,Brazil X Switzerland,1 - 0
+96,South Korea,2,Ghana,3,2022-11-28,Group Stage,Qatar,South Korea X Ghana,2 - 3
+97,Ecuador,1,Senegal,2,2022-11-29,Group Stage,Qatar,Ecuador X Senegal,1 - 2
+98,Wales,0,England,3,2022-11-29,Group Stage,Qatar,Wales X England,0 - 3
+99,Iran,0,United States,1,2022-11-29,Group Stage,Qatar,Iran X United States,0 - 1
+100,Netherlands,2,Qatar,0,2022-11-29,Group Stage,Qatar,Netherlands X Qatar,2 - 0
+101,Saudi Arabia,1,Mexico,2,2022-11-30,Group Stage,Qatar,Saudi Arabia X Mexico,1 - 2
+102,Tunisia,1,France,0,2022-11-30,Group Stage,Qatar,Tunisia X France,1 - 0
+103,Poland,0,Argentina,2,2022-11-30,Group Stage,Qatar,Poland X Argentina,0 - 2
+104,Australia,1,Denmark,0,2022-11-30,Group Stage,Qatar,Australia X Denmark,1 - 0
+105,Croatia,0,Belgium,0,2022-12-01,Group Stage,Qatar,Croatia X Belgium,0 - 0
+106,Costa Rica,2,Germany,4,2022-12-01,Group Stage,Qatar,Costa Rica X Germany,2 - 4
+107,Canada,1,Morocco,2,2022-12-01,Group Stage,Qatar,Canada X Morocco,1 - 2
+108,Japan,2,Spain,1,2022-12-01,Group Stage,Qatar,Japan X Spain,2 - 1
+109,South Korea,2,Portugal,1,2022-12-02,Group Stage,Qatar,South Korea X Portugal,2 - 1
+110,Ghana,0,Uruguay,2,2022-12-02,Group Stage,Qatar,Ghana X Uruguay,0 - 2
+111,Serbia,2,Switzerland,3,2022-12-02,Group Stage,Qatar,Serbia X Switzerland,2 - 3
+112,Cameroon,1,Brazil,0,2022-12-02,Group Stage,Qatar,Cameroon X Brazil,1 - 0
+113,Argentina,2,Australia,1,2022-12-03,Round of 16,Qatar,Argentina X Australia,2 - 1
+114,Netherlands,3,United States,1,2022-12-03,Round of 16,Qatar,Netherlands X United States,3 - 1
+115,England,3,Senegal,0,2022-12-04,Round of 16,Qatar,England X Senegal,3 - 0
+116,France,3,Poland,1,2022-12-04,Round of 16,Qatar,France X Poland,3 - 1
+117,Brazil,4,South Korea,1,2022-12-05,Round of 16,Qatar,Brazil X South Korea,4 - 1
+118,Japan,1,Croatia,1,2022-12-05,Round of 16,Qatar,Japan X Croatia,1 - 1
+119,Portugal,6,Switzerland,1,2022-12-06,Round of 16,Qatar,Portugal X Switzerland,6 - 1
+120,Morocco,0,Spain,0,2022-12-06,Round of 16,Qatar,Morocco X Spain,0 - 0
+121,Croatia,1,Brazil,1,2022-12-09,Quarter-finals,Qatar,Croatia X Brazil,1 - 1
+122,Netherlands,2,Argentina,2,2022-12-09,Quarter-finals,Qatar,Netherlands X Argentina,2 - 2
+123,Morocco,1,Portugal,0,2022-12-10,Quarter-finals,Qatar,Morocco X Portugal,1 - 0
+124,England,1,France,2,2022-12-10,Quarter-finals,Qatar,England X France,1 - 2
+125,Argentina,3,Croatia,0,2022-12-13,Semi-finals,Qatar,Argentina X Croatia,3 - 0
+126,France,2,Morocco,0,2022-12-14,Semi-finals,Qatar,France X Morocco,2 - 0
+127,Croatia,2,Morocco,1,2022-12-17,3rd Place Final,Qatar,Croatia X Morocco,2 - 1
+128,Argentina,3,France,3,2022-12-18,Final,Qatar,Argentina X France,3 - 3
