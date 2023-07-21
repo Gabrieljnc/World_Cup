@@ -5,8 +5,8 @@ Undergraduate Thesis for the Bsc in Data Science and Artificial Intelligence
 
 ### 🧩 Streamlit
 
-https://world-cup-analysis.streamlit.app/
-
+[https://world-cup-analysis.streamlit.app/
+](https://huggingface.co/spaces/Gabrieljnc/worldcupanalysis)
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
