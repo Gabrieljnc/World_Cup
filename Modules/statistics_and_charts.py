@@ -17,19 +17,19 @@ from yellowbrick.cluster import KElbowVisualizer
 from sklearn.cluster import AgglomerativeClustering
 from scipy.cluster.hierarchy import dendrogram, linkage
 
-URL1 = 'https://raw.githubusercontent.com/googlefonts/roboto/main/src/hinted/Roboto-Thin.ttf'
+# URL1 = 'https://raw.githubusercontent.com/googlefonts/roboto/main/src/hinted/Roboto-Thin.ttf'
 
-URL2 = ('https://raw.githubusercontent.com/google/fonts/main/apache/robotoslab/'
-        'RobotoSlab%5Bwght%5D.ttf')
+# URL2 = ('https://raw.githubusercontent.com/google/fonts/main/apache/robotoslab/'
+#         'RobotoSlab%5Bwght%5D.ttf')
 
-robotto_thin = FontManager(URL1)
-robotto_bold = FontManager(URL2)
+# robotto_thin = FontManager(URL1)
+# robotto_bold = FontManager(URL2)
 
-robotto_regular = fm.FontProperties(fname='Roboto-Regular.ttf')
+# robotto_regular = fm.FontProperties(fname='Roboto-Regular.ttf')
 
 # setup a mplsoccer FontManager to download google fonts (Roboto-Regular / SigmarOne-Regular)
-fm = FontManager()
-fm_rubik = FontManager('https://raw.githubusercontent.com/google/fonts/main/ofl/rubikmonoone/''RubikMonoOne-Regular.ttf')
+#fm = FontManager()
+#fm_rubik = FontManager('https://raw.githubusercontent.com/google/fonts/main/ofl/rubikmonoone/''RubikMonoOne-Regular.ttf')
 
 ##################################    Importação dos Dados       ##################################
 
@@ -303,8 +303,8 @@ def kde_shot_map(match_id, year):
     team2_hist_x = sns.kdeplot(x=team_2.location_x, ax=axs['top'], color='blue', fill=True)
     team2_hist_y = sns.kdeplot(y=team_2.location_y, ax=axs['right'], color='blue', fill=True)
 
-    txt1 = axs['pitch'].text(x=15, y=70, s=team_1.iloc[0]['team_name'], color='#ba495c', fontproperties=fm.prop, ha='center', va='center', fontsize=20)
-    txt2 = axs['pitch'].text(x=105, y=70, s=team_2.iloc[0]['team_name'], color='#697cd4', fontproperties=fm.prop, ha='center', va='center', fontsize=20)
+    txt1 = axs['pitch'].text(x=15, y=70, s=team_1.iloc[0]['team_name'], color='#ba495c', ha='center', va='center', fontsize=20)
+    txt2 = axs['pitch'].text(x=105, y=70, s=team_2.iloc[0]['team_name'], color='#697cd4', ha='center', va='center', fontsize=20)
 
     return plt.show()
 
@@ -336,8 +336,8 @@ def shots_jointgrid(match_id, year):
     team2_hist_x = sns.histplot(x=team_2.location_x, ax=axs['top'], element='step', color='#697cd4', kde=True)
     team2_hist_y = sns.histplot(y=team_2.location_y, ax=axs['right'], element='step', color='#697cd4', kde=True)
     
-    txt1 = axs['pitch'].text(x=15, y=70, s=team_1.iloc[0]['team_name'], color='#ba495c', fontproperties=fm.prop, ha='center', va='center', fontsize=20)
-    txt2 = axs['pitch'].text(x=105, y=70, s=team_2.iloc[0]['team_name'], color='#697cd4', fontproperties=fm.prop, ha='center', va='center', fontsize=20)
+    txt1 = axs['pitch'].text(x=15, y=70, s=team_1.iloc[0]['team_name'], color='#ba495c', ha='center', va='center', fontsize=20)
+    txt2 = axs['pitch'].text(x=105, y=70, s=team_2.iloc[0]['team_name'], color='#697cd4', ha='center', va='center', fontsize=20)
 
     return plt.show()
 
