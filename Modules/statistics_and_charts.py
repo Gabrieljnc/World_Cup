@@ -1171,20 +1171,20 @@ def radar_chart(team_01, match_name_01, wc_country_01, team_02, match_name_02, w
     
     radar_poly, radar_poly2, vertices1, vertices2 = radar_output
     
-    range_labels = radar.draw_range_labels(ax=axs['radar'], fontsize=12, fontproperties=robotto_thin.prop, color='#000000')
-    param_labels = radar.draw_param_labels(ax=axs['radar'], fontsize=12,fontproperties=robotto_thin.prop, color='#000000')
+    range_labels = radar.draw_range_labels(ax=axs['radar'], fontsize=12, color='#000000')
+    param_labels = radar.draw_param_labels(ax=axs['radar'], fontsize=12, color='#000000')
     
     axs['radar'].scatter(vertices1[:, 0], vertices1[:, 1],
                          c='#0094ea', edgecolors='#0094ea', marker='o', s=50, zorder=1)
     axs['radar'].scatter(vertices2[:, 0], vertices2[:, 1],
                          c='#dc0000', edgecolors='#dc0000', marker='o', s=50, zorder=1)
 
-    title1_text = axs['title'].text(0.01, 0.65, f'{team_1}', fontsize=15, color='#0094ea', fontproperties=robotto_bold.prop, ha='left', va='center')
+    title1_text = axs['title'].text(0.01, 0.65, f'{team_1}', fontsize=15, color='#0094ea', ha='left', va='center')
+    #fontproperties=robotto_thin.prop
+    title2_text = axs['title'].text(0.01, 0.25, f'Partida de ID: {match_name1}', fontsize=10,ha='left', va='center', color='#0094ea')
 
-    title2_text = axs['title'].text(0.01, 0.25, f'Partida de ID: {match_name1}', fontsize=10,fontproperties=robotto_thin.prop,ha='left', va='center', color='#0094ea')
+    title3_text = axs['title'].text(0.99, 0.65, f'{team_2}', fontsize=15, ha='right', va='center', color='#dc0000')
 
-    title3_text = axs['title'].text(0.99, 0.65, f'{team_2}', fontsize=15, fontproperties=robotto_bold.prop, ha='right', va='center', color='#dc0000')
-
-    title4_text = axs['title'].text(0.99, 0.25,  f'Partida de ID: {match_name2}', fontsize=10, fontproperties=robotto_thin.prop, ha='right', va='center', color='#dc0000')
+    title4_text = axs['title'].text(0.99, 0.25,  f'Partida de ID: {match_name2}', fontsize=10, ha='right', va='center', color='#dc0000')
 
     return plt.show()
